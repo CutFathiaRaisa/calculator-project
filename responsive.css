@@ -1,0 +1,9 @@
+@media (max-width: 670px) {
+  body {
+    padding-bottom: 5px;
+    padding-top: 0px;
+  }
+  .card {
+    height: 450px;
+  }
+}
